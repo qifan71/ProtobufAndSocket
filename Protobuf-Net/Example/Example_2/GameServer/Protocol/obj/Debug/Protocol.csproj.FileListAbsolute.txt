@@ -1,0 +1,8 @@
+C:\Users\Ahpily\Desktop\GameServer\Protocol\bin\Debug\Protocol.dll
+C:\Users\Ahpily\Desktop\GameServer\Protocol\bin\Debug\Protocol.pdb
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.csprojResolveAssemblyReference.cache
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.dll
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.pdb
+C:\Users\Ahpily\Desktop\Card\Assets\Plugins\Protocol.dll
+C:\Users\Ahpily\Desktop\Card\Assets\Plugins\Protocol.pdb
+C:\Users\Ahpily\Desktop\GameServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
